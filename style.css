@@ -1,0 +1,42 @@
+.a {
+    width: 300px;
+    height: 150px;
+    background: red;
+    border: 10px solid yellow;
+    padding: 30px;
+    margin: 50px;
+}
+
+.b {
+    width: 300px;
+    height: 150px;
+    background: blue;
+    border: 20px solid pink;
+}
+
+.tong {
+    height: 500px;
+    width: 300px;
+    background: pink;
+    padding: 20px 30px 20px 30px;
+    border: 10px solid yellow;
+    border-style: dashed;
+    margin: 20px 30px 20px 30px;
+}
+
+.web {
+    width: 300px;
+    height: 100px;
+    border: 20px solid green;
+    padding: 100px 70px 100px 70px;
+}
+
+.sub {
+    background: silver;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+    font-size: 30px;
+    color: green;
+}
